@@ -1,0 +1,142 @@
+[
+       {
+        "type": "playlist",
+        "playlists":
+        [
+        {
+            "id" : "title",
+            "shuffle" : true,
+            "files" : [
+                {
+                    "file": "music/myuu - A New Dawn.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/myuu - Bravery.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/myuu - Crime Scene.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/myuu - Evil Returns.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/myuu - Exploring the Inferno.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/myuu - Extinction.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/myuu - March of the Titans.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/myuu - Now or Never.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/myuu - Round That Corner.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/myuu - Snow Wonders.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/myuu - Soul Rail.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/myuu - Storytime.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/myuu - Wasted Wonderland.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/myuu - Winter Trouble.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/Daylights End part two.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/Daylights End.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/Lycanthropy.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/Mystery.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/Outsider.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/Phantom from Space.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/Piano Scary Music Background.ogg",
+                    "volume": 80
+                },
+                {
+                    "file": "music/Scary Story Music.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/Signs In The Fields.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/Silent Night.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/The Dark Side Of Me.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/The Dead Marshes.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/The Mad Harvester.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/The Midnight Hour.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/The War Against.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/This House.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/Twisted Tales.ogg",
+                    "volume": 80
+                },
+				{
+                    "file": "music/Unsafe Roads.ogg",
+                    "volume": 80
+                }
+            ]
+        }
+    ]
+}
+]

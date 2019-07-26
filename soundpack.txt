@@ -1,0 +1,6 @@
+#CDDA-Soundpack
+#Name of the soundpack
+NAME: DarkSoundpack
+#Viewing name of the soundpack
+VIEW: DarkSoundpack
+DESCRIPTION: Eerie music with sounds from The CDDA-soundpack and 2ch Soundpack.
